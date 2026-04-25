@@ -1,1 +1,6 @@
-/data_logger.py
+/strato_app/build/
+/strato/strato_app/build/
+*.log
+.DS_Store
+.idea/
+.vscode/
